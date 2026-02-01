@@ -1,4 +1,6 @@
+
 ## Hi there 👋
+![octocat](./octocat-1769945813447.png)
 
 <!--
 **LuMina07/LuMina07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
